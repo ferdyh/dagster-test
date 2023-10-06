@@ -1,4 +1,5 @@
 locations:
   - location_name: demo
+    image: dagster/dagster-cloud-examples:latest
     code_source:
       package_name: demo
