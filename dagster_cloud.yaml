@@ -1,0 +1,4 @@
+locations:
+  - location_name: demo
+    code_source:
+      package_name: demo
